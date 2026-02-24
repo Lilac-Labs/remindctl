@@ -6,10 +6,6 @@ Fast CLI for Apple Reminders on macOS.
 
 ## Install
 
-### Homebrew (Home Pro)
-```bash
-brew install steipete/tap/remindctl
-```
 
 ### From source
 ```bash
